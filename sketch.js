@@ -5,7 +5,7 @@ let trail = [];
 
 function setup() {
   createCanvas(600, 600);
-  background(255);
+  background(255,255,190);
 }
 
 function draw() {
